@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.info{
+    font-size: x-large;
+}
+.mapBox{
+    height: 30vh;
+}
+.imgBox{
+    overflow: hidden;
+}
+img{
+    filter: saturate(1.2);
+    filter: contrast(1.2);
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.row{
+    transition: 2s; 
+}
+svg{
+    height: 150px;
+    width: 150px;
+}
+.videoBox{
+    overflow: hidden;
+}
+video{
+    height: 100%;
+    width: 100%;
+}
+.col-6{
+    
+}
+.imgSide{
+    
+}
+footer{
+    height: 20vh;
+}
